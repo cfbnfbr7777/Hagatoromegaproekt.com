@@ -1,0 +1,34 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+	text-align: center;
+	background-image: url(../img/dalecoo.jpg);
+	background-size: cover;
+}
+.byy{
+	width: 100%;
+	height: calc(100% - 40px);
+	text-align: center;	
+ 	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background: ;
+}
+.by{
+  text-decoration: none;
+  font-size: 25px;
+}
+.fs{
+	 color: #FFCF40;
+	 text-decoration: none;
+	 font-size: 20px;
+}
+.fs:hover{
+	font-size: 25px;
+	transition: 0.5s;
+
+}

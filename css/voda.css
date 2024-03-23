@@ -1,0 +1,33 @@
+
+body{
+	background-image: url(../img/dalecoo.jpg);
+	background-size: cover;
+}
+.gallery{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	background-size: cover;
+	background-position: 50% 50% ;
+	background-image: url();
+}
+.element{
+	width: calc(50% - 20px);
+	height: 760px;
+	margin: 9px;
+	transition: 0.5s;
+}
+.dom{
+	font-size: 30px;
+	text-align: center;
+}
+.dodo{
+	text-decoration: none;
+	color: #FFCF40;
+	font-size: 25px;
+	transition: 0.2s;
+}
+.dodo:hover{
+	font-size: 26px;
+	transition: 0.2s;
+}

@@ -1,0 +1,30 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image: url(../img/dalecoo.jpg);
+	background-size: cover;
+}
+.one-text{
+	text-align: center;
+	font-size: 30px;
+	width: 70%;
+	margin: auto;
+	color: #FFCF40;
+}
+.dom{
+	font-size: 30px;
+	text-align: center;
+	height: 100px;
+}
+.dodo{
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+	transition: 0.2s;
+}
+.dodo:hover{
+	font-size: 27px;
+	transition: 0.2s;
+}

@@ -1,0 +1,38 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image: url(../img/dalecoo.jpg);
+	color: #FFCF40;
+	background-size: cover;
+}
+.one-text{
+	text-align: center;
+	font-size: 30px;
+	margin: 5px;
+}
+.one-foto{
+	text-align: center;
+}
+.two-text{
+	text-align: center;
+	font-size: 30px;
+	margin: 10px;
+	width: 70%;
+	margin: auto;
+}
+.dom{
+	font-size: 30px;
+	text-align: center;
+}
+.dodo{
+	text-decoration: none;
+	color: #FFCF40;
+	font-size: 25px;
+	transition: 0.2s;
+}
+.dodo:hover{
+	font-size: 26px;
+	transition: 0.2s;
+}

@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image: url(../img/dalecoo.jpg);
+	background-size: cover;
+	font-family: 'Roboto Slab', serif;
+}
+.verh-text{
+	text-align: center;
+	color: #FFCF40;
+	font-size: 20px;
+}
+.gallery{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+	color: #a0a0a0;
+	font-size: 20px;
+}
+.element{
+	width: calc(50% - 20px);
+	height: 800px;
+	margin: 9px;
+	transition: 0.5s;
+}
+.dom{
+	font-size: 30px;
+	text-align: center;
+	height: 100px;
+}
+.dodo{
+	text-decoration: none;
+	color: #FFCF40;
+	font-size: 25px;
+	transition: 0.2s;
+	margin: 5px;
+}
+.dodo:hover{
+	font-size: 27px;
+	transition: 0.2s;
+}
